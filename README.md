@@ -1,4 +1,5 @@
-## Hi there 👋
+# Hey 👋
+I'm a software engineer based in the UK and 2025 Computer Science graduate from The University of Sheffield. I love to code - particularly dissecting complex algorithmic problems, and creating apps that have a real impact on users.
 
 <!--
 **g30rg3hum/g30rg3hum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
