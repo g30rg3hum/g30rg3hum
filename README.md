@@ -1,11 +1,14 @@
 # Hey 👋
-I'm a software engineer based in the UK and 2025 Computer Science graduate from The University of Sheffield.
 
-⛏️ I'm currently working on <picture><source media="(prefers-color-scheme: dark)" srcset="/images/sk8er-white.png"><source media="(prefers-color-scheme: light)" srcset="/images/sk8er-black.png"><img style="display: inline-block; vertical-align: middle;" height="14" alt="sk8er logo" src="/images/sk8er-black.png"></picture>, a social media platform for skateboarders.
+Developer and recent Computer Science graduate from The University of Sheffield.
+
+Currently based in the UK.
+
+🛠 Exploring fintech and trading systems.
 
 🤝 Also freelancing web-development solutions for companies.
 
-🔭 Looking for junior and graduate opportunities in SWE. Reach out to me at hmw.geo@gmail.com.
+🔭 Looking for junior and graduate opportunities in tech/engineering. Reach out to me at hmw.geo@gmail.com.
 
 ## Tech stack
 
@@ -15,7 +18,7 @@ Libraries/Frameworks: <img style="display: inline-block; vertical-align: bottom"
 
 Tools: <img style="display: inline-block; vertical-align: bottom" src="https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" height="25" alt="AWS logo" /> <img style="display: inline-block; vertical-align: bottom" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" height="25" alt="PostgreSQL logo" /> <img style="display: inline-block; vertical-align: bottom" src="https://img.shields.io/badge/Amazon%20RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white" height="25" alt="Amazon RDS logo" /> <img style="display: inline-block; vertical-align: bottom" src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" height="25" alt="Supabase logo" /> <img style="display: inline-block; vertical-align: bottom" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" height="25" alt="Postman logo" /> <img style="display: inline-block; vertical-align: bottom" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" height="25" alt="Jira logo" /> <img style="display: inline-block; vertical-align: bottom" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" height="25" alt="Git logo" />
 
-
 ## Useful links
+
 - [Personal website](https://georgehum.com)
 - [LinkedIn](https://www.linkedin.com/in/georgehum/)
