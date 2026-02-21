@@ -4,8 +4,8 @@ I'm George, and I love to make stuff.
 
 ## Featured work
 
-- [Songdle](https://songdle.fun): song version of the renowned daily Wordle.
 - [Sip](https://ssip.live): minimalistic water tracker for the dehydrated.
+- [Songdle](https://songdle.fun): song version of the renowned daily Wordle.
 - [rsvpy](https://rsvpy.lol/): event management platform.
 - [K-TOOL Engineering](https://www.ktoolengineering): corporate website for a precision engineering company.
 
