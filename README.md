@@ -11,5 +11,5 @@ Not everything that I've ever created but some of the stuff that I'm proud of -
 
 ## Links
 
-- Personal page at [www.georgehum.com].
+- Personal page at [www.georgehum.com](https:/georgehum.com).
 - Also active on [X](https://x.com/g30rg3hum).
