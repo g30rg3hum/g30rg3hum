@@ -11,5 +11,5 @@ I'm George, and I love to make stuff.
 
 ## Links
 
-- Personal page at [www.georgehum.com](https:/georgehum.com).
+- Personal page at [www.georgehum.com](https://georgehum.com).
 - Also active on [X](https://x.com/g30rg3hum).
