@@ -1,3 +1,3 @@
 # Hello 👋
 
-Get to know me @ [www.georgehum.com](www.georgehum.com).
+Get to know me @ [https://www.georgehum.com](www.georgehum.com).
